@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sync.kotatsu.app.ico",
     "slug": "sync-kotatsu-app",
     "status": "down",
-    "uptime": "0.13%",
-    "uptimeDay": "0.13%",
-    "uptimeWeek": "0.13%",
-    "uptimeMonth": "0.13%",
-    "uptimeYear": "0.13%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 3605,
     "timeDay": 3605,
     "timeWeek": 3605,
     "timeMonth": 3605,
     "timeYear": 3605,
     "dailyMinutesDown": {
-      "2025-04-20": 126
+      "2025-04-20": 148
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moe.shirizu.org.ico",
     "slug": "moe-shirizu-org",
     "status": "down",
-    "uptime": "0.39%",
-    "uptimeDay": "0.39%",
-    "uptimeWeek": "0.39%",
-    "uptimeMonth": "0.39%",
-    "uptimeYear": "0.39%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-20": 126
+      "2025-04-20": 147
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "http://54.254.71.100",
     "icon": "https://icons.duckduckgo.com/ip3/54.254.71.100.ico",
     "slug": "54-254-71-100",
-    "status": "down",
-    "uptime": "99.51%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 450,
-    "timeDay": 450,
-    "timeWeek": 450,
-    "timeMonth": 450,
-    "timeYear": 450,
+    "status": "up",
+    "uptime": "85.24%",
+    "uptimeDay": "85.24%",
+    "uptimeWeek": "85.24%",
+    "uptimeMonth": "85.24%",
+    "uptimeYear": "85.24%",
+    "time": 409,
+    "timeDay": 409,
+    "timeWeek": 409,
+    "timeMonth": 409,
+    "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-04-20": 1
+      "2025-04-20": 22
     }
   },
   {
@@ -83,18 +83,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/86.57.183.214.ico",
     "slug": "86-57-183-214-8081",
     "status": "down",
-    "uptime": "0.39%",
-    "uptimeDay": "0.39%",
-    "uptimeWeek": "0.39%",
-    "uptimeMonth": "0.39%",
-    "uptimeYear": "0.39%",
+    "uptime": "0.33%",
+    "uptimeDay": "0.33%",
+    "uptimeWeek": "0.33%",
+    "uptimeMonth": "0.33%",
+    "uptimeYear": "0.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-20": 125
+      "2025-04-20": 147
     }
   },
   {
