@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sync.kotatsu.app.ico",
     "slug": "sync-kotatsu-app",
     "status": "down",
-    "uptime": "11.12%",
-    "uptimeDay": "11.12%",
-    "uptimeWeek": "11.12%",
-    "uptimeMonth": "11.12%",
-    "uptimeYear": "11.12%",
+    "uptime": "3.80%",
+    "uptimeDay": "3.80%",
+    "uptimeWeek": "3.80%",
+    "uptimeMonth": "3.80%",
+    "uptimeYear": "3.80%",
     "time": 3605,
     "timeDay": 3605,
     "timeWeek": 3605,
     "timeMonth": 3605,
     "timeYear": 3605,
     "dailyMinutesDown": {
-      "2025-04-20": 1
+      "2025-04-20": 4
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/moe.shirizu.org.ico",
     "slug": "moe-shirizu-org",
     "status": "down",
-    "uptime": "42.66%",
-    "uptimeDay": "42.66%",
-    "uptimeWeek": "42.66%",
-    "uptimeMonth": "42.66%",
-    "uptimeYear": "42.66%",
+    "uptime": "12.89%",
+    "uptimeDay": "12.89%",
+    "uptimeWeek": "12.89%",
+    "uptimeMonth": "12.89%",
+    "uptimeYear": "12.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-20": 1
+      "2025-04-20": 3
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/86.57.183.214.ico",
     "slug": "86-57-183-214-8081",
     "status": "down",
-    "uptime": "78.86%",
-    "uptimeDay": "78.86%",
-    "uptimeWeek": "78.86%",
-    "uptimeMonth": "78.86%",
-    "uptimeYear": "78.86%",
+    "uptime": "14.98%",
+    "uptimeDay": "14.98%",
+    "uptimeWeek": "14.98%",
+    "uptimeMonth": "14.98%",
+    "uptimeYear": "14.98%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-20": 0
+      "2025-04-20": 3
     }
   },
   {
