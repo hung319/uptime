@@ -3,19 +3,20 @@ owner: hung319 # Your GitHub organization or username, where this repository liv
 repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Kotatsu
+    url: https://kotatsu.app
+  - name: sync.kotatsu.app
+    url: https://sync.kotatsu.app
+  - name: moe.shirizu.org
+    url: https://moe.shirizu.org
+  - name: 54.254.71.100
+    url: http://54.254.71.100
+  - name: 86.57.183.214:8081
+    url: http://86.57.183.214:8081
+  - name: kosync.estebiu.com
+    url: https://kosync.estebiu.com
+  - name: kotync.013666.xyz
+    url: https://kotync.013666.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
