@@ -22,19 +22,19 @@
     "url": "https://sync.kotatsu.app",
     "icon": "https://icons.duckduckgo.com/ip3/sync.kotatsu.app.ico",
     "slug": "sync-kotatsu-app",
-    "status": "down",
-    "uptime": "64.38%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "64.38%",
-    "uptimeMonth": "64.38%",
-    "uptimeYear": "64.38%",
-    "time": 4080,
-    "timeDay": 6951,
-    "timeWeek": 4080,
-    "timeMonth": 4080,
-    "timeYear": 4080,
+    "status": "up",
+    "uptime": "64.37%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "64.37%",
+    "uptimeMonth": "64.37%",
+    "uptimeYear": "64.37%",
+    "time": 5186,
+    "timeDay": 8753,
+    "timeWeek": 5186,
+    "timeMonth": 5186,
+    "timeYear": 5186,
     "dailyMinutesDown": {
-      "2025-04-23": 1,
+      "2025-04-23": 2,
       "2025-04-22": 514,
       "2025-04-21": 430,
       "2025-04-20": 754
@@ -57,7 +57,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-23": 1135,
+      "2025-04-23": 1137,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 753
@@ -80,7 +80,7 @@
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-04-23": 1135,
+      "2025-04-23": 1137,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 612
@@ -103,7 +103,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-23": 1135,
+      "2025-04-23": 1137,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
       "2025-04-20": 753
