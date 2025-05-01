@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 741,
+      "2025-05-01": 747,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -87,7 +87,7 @@
     "timeMonth": 409,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2025-05-01": 741,
+      "2025-05-01": 747,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -118,7 +118,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-01": 741,
+      "2025-05-01": 747,
       "2025-04-30": 1440,
       "2025-04-29": 1440,
       "2025-04-28": 1440,
@@ -138,18 +138,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kosync.estebiu.com.ico",
     "slug": "kosync-estebiu-com",
     "status": "up",
-    "uptime": "86.05%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "78.01%",
-    "uptimeMonth": "86.05%",
-    "uptimeYear": "86.05%",
+    "uptime": "86.09%",
+    "uptimeDay": "3.35%",
+    "uptimeWeek": "78.05%",
+    "uptimeMonth": "86.09%",
+    "uptimeYear": "86.09%",
     "time": 349,
     "timeDay": 307,
     "timeWeek": 320,
     "timeMonth": 349,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-05-01": 703,
+      "2025-05-01": 698,
       "2025-04-30": 1440,
       "2025-04-29": 74
     }
