@@ -1,7 +1,7 @@
 url: https://sync.kotatsu.app
-status: up
-code: 200
-responseTime: 2016
-lastUpdated: 2025-06-09T06:00:24.351Z
+status: down
+code: 502
+responseTime: 3685
+lastUpdated: 2025-06-09T09:15:28.837Z
 startTime: 2025-04-20T11:25:56.379Z
 generator: Upptime <https://github.com/upptime/upptime>
